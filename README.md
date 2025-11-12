@@ -29,7 +29,7 @@ https://iftekhar-portfolio-two.vercel.app/
 
 
 ## Github Site Link
-https://github.com/ahmedrimon/anonno--portfolio
+[https://github.com/ahmedrimon/anonno--portfolio](https://github.com/ahmedrimon/iftekhar-portfolio)
 ## Tech Stack
 
 **Client:** NextJs, Typescript, TailwindCSS
