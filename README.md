@@ -4,7 +4,7 @@
 This is my own personal site where it moving object all time And I'm try to making something new experience
 
 
-![Portfolio Picture](https://i.ibb.co/WWT7pRM/iftekhar-portfolio.png)
+![Portfolio Picture](https://i.ibb.co.com/PzQJ7ZQ8/Iftekhar-Portfolio-Main-Page.png)
 
 
 ## FEATURE
@@ -24,7 +24,7 @@ This is my own personal site where it moving object all time And I'm try to maki
 
 
 ## Live Site Link
-https://iftekhar-portfolio.netlify.app/
+https://iftekhar-portfolio-two.vercel.app/
 
 
 
