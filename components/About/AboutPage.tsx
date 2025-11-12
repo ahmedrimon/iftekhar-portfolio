@@ -19,6 +19,7 @@ export default function About() {
                          alt="owner of this website"
                          width={200}
                          height={200}
+                         loading="lazy"
                     />
                </div>
                <p className="font-acma text-black text-[1.5vw] w-[50%] mt-[8rem] max-[520px]:ml-[3rem] md:ml-6 text-lg">I Work at least 2.5+ year almost, some work i done personally. I love making website which is more visually stunning</p>
